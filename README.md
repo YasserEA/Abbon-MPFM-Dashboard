@@ -2,7 +2,7 @@
 
 An end-to-end engineering simulation of a Virtual Multiphase Flow Metering (VFM) platform designed for subsea oil and gas applications. Built entirely using MATLAB and App Designer, this project bridges multiphase fluid dynamics, digital signal processing, and real-time dashboard instrumentation using synthetic data generated from open industry physics principles.
 
-[![Open in MATLAB Online](https://mathworks.com)](https://mathworks.com)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YasserEA/Subsea-Multiphase-Flow-VFM-Dashboard)
 
 🚀 Project Architecture
 
@@ -32,7 +32,7 @@ A standalone control panel built via MATLAB App Designer that executes a fast re
 
 📊 Sample Visualizations
 
-![VFM Dashboard Live Preview](dashboard_preview.gif)
+![VFM Dashboard Live Preview](vfm.dashboard.gif)
 
 💻 How to Run the Project
 
